@@ -7,7 +7,7 @@
 ## 🧑‍💻 About Me
 - 📍 Based in New Delhi, India  
 - 🎓 MCA (VIPS) | BCA (IITM)  
-- 🧠 Interested in Machine Learning, Data Analytics, and AI-powered applications  
+- 🧠 Interested in Data Analytics, Machine Learning, and AI-powered applications  
 - ✨ Love building projects that solve real-world problems  
 
 ---
